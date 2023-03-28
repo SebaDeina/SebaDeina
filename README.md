@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I´m a Developer with a passion for science and human behance<br>📬 Shoot me an Email or add me on Linkedin :)
 
 
